@@ -86,6 +86,10 @@ nav .nav-padding {
 	margin-left: 17px;
 	}
 
+.circle:hover {
+	text-decoration: none;
+}
+
 /*---MAIN---*/
 
 main div.logo {
