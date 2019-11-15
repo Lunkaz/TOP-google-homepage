@@ -108,7 +108,7 @@ div.main-container {
 
 div#search-field {
 	display: inline-flex;
-	width: 500px;
+	width: 600px;
 	height: 45px;
 	border-radius: 20px;
 	border: 1px solid #e4e4e4;
@@ -116,7 +116,7 @@ div#search-field {
 
 input[type=text] {
 	border: none;
-	width: 450px;
+	width: 550px;
 	background-image: url(images/search.png);
 	background-position: 15px;
 	background-repeat: no-repeat;
